@@ -3,7 +3,7 @@
 ##
 <h2><img src="https://cosmostaking.com/images/logo/logo_icon_dark.png" style="width:15px;height:15px;"> About Us</h2>
 ##
-Cosmostaking is the trusted staking service provider for blockchain projects.
+We are a R&D lab developing Layer 1/Layer 2 protocols, DeFi products, validator services, and integrated AI applications. 
 
 <!--
 
